@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.7.0 (2025-04-22)
+
+### Features
+
+- Updated version bump
+  ([`7f4b417`](https://github.com/PietroSpalluto/semantic-release-test/commit/7f4b4179576c48218a532a2417b854dd92b2165e))
+
+
 ## v0.6.0 (2025-04-22)
 
 ### Features
