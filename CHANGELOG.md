@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.15.0 (2025-04-22)
+
+### Features
+
+- Added end print after executable print
+  ([`e2c2ed1`](https://github.com/PietroSpalluto/semantic-release-test/commit/e2c2ed110711148be6c25e91202930ac8040ce4e))
+
+
 ## v0.14.0 (2025-04-22)
 
 ### Features
