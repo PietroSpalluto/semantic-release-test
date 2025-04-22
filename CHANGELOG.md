@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.12.1 (2025-04-22)
+
+### Bug Fixes
+
+- Removed space
+  ([`632c7d2`](https://github.com/PietroSpalluto/semantic-release-test/commit/632c7d2e6022565f6bdd7c8e534234a63c96bfda))
+
+
 ## v0.12.0 (2025-04-22)
 
 
