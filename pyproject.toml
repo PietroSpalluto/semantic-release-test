@@ -57,7 +57,7 @@ parse_squash_commits = false
 ignore_merge_commits = false
 
 [tool.semantic_release.remote]
-token = { env = "GH_TOKEN" }
+#token = { env = "GH_TOKEN" }
 name = "origin"
 type = "github"
 ignore_token_for_push = false
