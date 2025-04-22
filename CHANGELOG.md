@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.23.0 (2025-04-22)
+
+### Features
+
+- Testing automatic pull
+  ([`f2fe188`](https://github.com/PietroSpalluto/semantic-release-test/commit/f2fe18857d610c6b3a320c15efdd541cdc162d0f))
+
+
 ## v0.22.0 (2025-04-22)
 
 ### Features
