@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.18.0 (2025-04-22)
+
+### Features
+
+- Added the actual final print
+  ([`04d65fd`](https://github.com/PietroSpalluto/semantic-release-test/commit/04d65fd11dd8f3a34f75ba962988b243b5c901d7))
+
+
 ## v0.17.0 (2025-04-22)
 
 ### Features
