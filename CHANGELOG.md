@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.5.0 (2025-04-22)
+
+### Features
+
+- Added token to toml file
+  ([`83d760e`](https://github.com/PietroSpalluto/semantic-release-test/commit/83d760ed7600b8a798a917c967afdb25cf3ecd15))
+
+
 ## v0.4.0 (2025-04-22)
 
 ### Features
