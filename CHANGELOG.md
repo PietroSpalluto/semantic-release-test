@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.12.2 (2025-04-22)
+
+### Bug Fixes
+
+- Using action and not id-token
+  ([`a86f719`](https://github.com/PietroSpalluto/semantic-release-test/commit/a86f7194488410108f0c1a2b5fbbbafaec5d86c5))
+
+
 ## v0.12.1 (2025-04-22)
 
 ### Bug Fixes
