@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.22.0 (2025-04-22)
+
+### Features
+
+- Help me
+  ([`fb57e0e`](https://github.com/PietroSpalluto/semantic-release-test/commit/fb57e0e937fcd4a78947a061149f0161cdfe0774))
+
+
 ## v0.21.0 (2025-04-22)
 
 ### Features
