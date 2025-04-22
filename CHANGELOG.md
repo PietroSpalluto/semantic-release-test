@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.14.0 (2025-04-22)
+
+### Features
+
+- Added executable print
+  ([`dd76fa6`](https://github.com/PietroSpalluto/semantic-release-test/commit/dd76fa63340c70cc13c188735e9d87ff516b6082))
+
+
 ## v0.13.0 (2025-04-22)
 
 ### Features
