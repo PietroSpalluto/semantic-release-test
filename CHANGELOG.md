@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.8.0 (2025-04-22)
+
+### Features
+
+- Added vv mode
+  ([`53e68c3`](https://github.com/PietroSpalluto/semantic-release-test/commit/53e68c36ab94d69f6ce0e26c39776e756708e3a5))
+
+
 ## v0.7.0 (2025-04-22)
 
 ### Features
