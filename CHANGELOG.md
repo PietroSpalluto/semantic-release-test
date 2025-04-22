@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.21.0 (2025-04-22)
+
+### Features
+
+- Added fetch tags
+  ([`7d16fb4`](https://github.com/PietroSpalluto/semantic-release-test/commit/7d16fb47e50c7812d2eaa518f8fb790a8d412c3b))
+
+
 ## v0.20.0 (2025-04-22)
 
 ### Features
