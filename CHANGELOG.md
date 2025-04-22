@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.11.0 (2025-04-22)
+
+### Features
+
+- Modified repo_dir in yml
+  ([`fad88d9`](https://github.com/PietroSpalluto/semantic-release-test/commit/fad88d9b95476a43990a4f61b7d80c1cae6f1aca))
+
+
 ## v0.10.0 (2025-04-22)
 
 ### Features
