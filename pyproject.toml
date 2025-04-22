@@ -7,7 +7,8 @@ commit_parser = "conventional"
 logging_use_named_masks = false
 major_on_zero = true
 allow_zero_version = true
-repo_dir = "C:\\Users\\Pietro\\PycharmProjects\\semantic-release-test"
+#repo_dir = "C:\\Users\\Pietro\\PycharmProjects\\semantic-release-test"
+repo_dir = "."
 no_git_verify = false
 tag_format = "v{version}"
 
