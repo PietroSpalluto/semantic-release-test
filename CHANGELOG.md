@@ -1,9 +1,15 @@
 # CHANGELOG
 
 
+## v0.12.0 (2025-04-22)
+
+
 ## v0.11.0 (2025-04-22)
 
 ### Features
+
+- Added new print
+  ([`d78a91f`](https://github.com/PietroSpalluto/semantic-release-test/commit/d78a91fe37f01ac6537c0153aaaccbd2fcce0a2a))
 
 - Modified repo_dir in yml
   ([`fad88d9`](https://github.com/PietroSpalluto/semantic-release-test/commit/fad88d9b95476a43990a4f61b7d80c1cae6f1aca))
