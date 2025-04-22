@@ -30,9 +30,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           # Specify the path if you're not using the default workspace
-          path: C:\Users\Pietro\PycharmProjects\semantic-release-test
+          path: C:/Users/Pietro/PycharmProjects/semantic-release-test
 
       - name: Pull latest changes
         run: |
-          cd C:\Users\Pietro\PycharmProjects\semantic-release-test
+          cd C:/Users/Pietro/PycharmProjects/semantic-release-test
           git pull origin main
