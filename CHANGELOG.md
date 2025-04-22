@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.13.0 (2025-04-22)
+
+### Features
+
+- Removed token from toml
+  ([`d4cb2d9`](https://github.com/PietroSpalluto/semantic-release-test/commit/d4cb2d9124ff9cb3dabd5e4ba91d4e7365f8fdce))
+
+
 ## v0.12.2 (2025-04-22)
 
 ### Bug Fixes
