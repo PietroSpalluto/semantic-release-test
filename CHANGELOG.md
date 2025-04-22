@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.4.0 (2025-04-22)
+
+### Features
+
+- Added fourth print
+  ([`724dd86`](https://github.com/PietroSpalluto/semantic-release-test/commit/724dd868d05878e25033257dc2611dff595b43ff))
+
+
 ## v0.3.0 (2025-04-22)
 
 ### Features
