@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.10.0 (2025-04-22)
+
+### Features
+
+- Added root option to yml
+  ([`7d200bb`](https://github.com/PietroSpalluto/semantic-release-test/commit/7d200bb9678221aa8c231ecc07d8ec6f396199f5))
+
+
 ## v0.9.0 (2025-04-22)
 
 ### Features
