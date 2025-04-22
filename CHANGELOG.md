@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-04-22)
+
+### Features
+
+- Added third print
+  ([`73e35e8`](https://github.com/PietroSpalluto/semantic-release-test/commit/73e35e85e660dc8c761d6a366a52e84b9292cb63))
+
+
 ## v0.2.0 (2025-04-22)
 
 ### Bug Fixes
