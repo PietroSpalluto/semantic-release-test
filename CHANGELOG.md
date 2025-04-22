@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.9.0 (2025-04-22)
+
+### Features
+
+- New yml for version bump
+  ([`742b519`](https://github.com/PietroSpalluto/semantic-release-test/commit/742b519affac61defe82e038b5d9156a57d55975))
+
+
 ## v0.8.0 (2025-04-22)
 
 ### Features
