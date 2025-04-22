@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.19.0 (2025-04-22)
+
+### Features
+
+- That was a joke
+  ([`e161d87`](https://github.com/PietroSpalluto/semantic-release-test/commit/e161d87d4a8520f056295949700bfb5f35d85bfc))
+
+
 ## v0.18.0 (2025-04-22)
 
 ### Features
