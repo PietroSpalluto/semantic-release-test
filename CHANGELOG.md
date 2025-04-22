@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.16.0 (2025-04-22)
+
+### Features
+
+- Added a true end
+  ([`65ddd5c`](https://github.com/PietroSpalluto/semantic-release-test/commit/65ddd5ca4dbf6b33a91d3040fd8f4743051838c5))
+
+
 ## v0.15.0 (2025-04-22)
 
 ### Features
