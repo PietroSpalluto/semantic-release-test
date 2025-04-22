@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.6.0 (2025-04-22)
+
+### Features
+
+- Added token to env
+  ([`e475fc5`](https://github.com/PietroSpalluto/semantic-release-test/commit/e475fc5bb1b378b3c8fa2c1ceb6acc7be17b64e8))
+
+
 ## v0.5.0 (2025-04-22)
 
 ### Features
