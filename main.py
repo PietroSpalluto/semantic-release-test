@@ -1,3 +1,5 @@
+import sys
+
 print('hello')
 print('world')
 print('third print0')
@@ -11,3 +13,5 @@ print('added root options to execute the vv mode')
 print('modified repo dir in yml')
 print('new print')
 print('test with no semantic release')
+
+print(sys.executable)
