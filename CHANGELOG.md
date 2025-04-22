@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.2.0 (2025-04-22)
+
+### Bug Fixes
+
+- Added args to bump version
+  ([`93a9210`](https://github.com/PietroSpalluto/semantic-release-test/commit/93a9210bdce60656009626b4cd8cb5a3c243f18a))
+
+### Features
+
+- Added new print to main
+  ([`71f050f`](https://github.com/PietroSpalluto/semantic-release-test/commit/71f050f6d2cbeb069684431a6fe7eba6258eb4d1))
+
+
 ## v0.1.0 (2025-04-22)
 
 ### Features
