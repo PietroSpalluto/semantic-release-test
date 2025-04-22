@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
+      id-token: write
       contents: write
-      actions: write
 
     steps:
       - name: Checkout repository
@@ -19,17 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          pip install python-semantic-release
-
       - name: Bump version using semantic-release
         uses: python-semantic-release/python-semantic-release@master
         with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            args: -vv
+          github_token: ${{ secrets.GITHUB_TOKEN }}
