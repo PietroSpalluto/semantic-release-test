@@ -15,3 +15,4 @@ print('new print')
 print('test with no semantic release')
 
 print(sys.executable)
+print('end')
