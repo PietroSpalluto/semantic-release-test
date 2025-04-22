@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.20.0 (2025-04-22)
+
+### Features
+
+- Twenty
+  ([`456f53d`](https://github.com/PietroSpalluto/semantic-release-test/commit/456f53d4ebcc817741688a1d1b1feefad8132f54))
+
+
 ## v0.19.0 (2025-04-22)
 
 ### Features
