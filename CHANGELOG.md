@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.17.0 (2025-04-22)
+
+### Features
+
+- Added a true end maybe
+  ([`1e19c1c`](https://github.com/PietroSpalluto/semantic-release-test/commit/1e19c1c0bc1c450f28ed7942458e52161861a98e))
+
+
 ## v0.16.0 (2025-04-22)
 
 ### Features
