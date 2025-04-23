@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.33.0 (2025-04-23)
+
+### Features
+
+- Not understanding
+  ([`fc78e84`](https://github.com/PietroSpalluto/semantic-release-test/commit/fc78e84ad7008968447c1fa566c3647509fea51c))
+
+
 ## v0.32.0 (2025-04-23)
 
 ### Features
