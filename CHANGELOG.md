@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.34.0 (2025-04-23)
+
+### Features
+
+- Maybe maybe
+  ([`dd81731`](https://github.com/PietroSpalluto/semantic-release-test/commit/dd817317a98be10491e528f34960670617e7c430))
+
+
 ## v0.33.0 (2025-04-23)
 
 ### Features
