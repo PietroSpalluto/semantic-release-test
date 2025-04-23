@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.30.0 (2025-04-23)
+
+### Features
+
+- Desperation
+  ([`d9453c7`](https://github.com/PietroSpalluto/semantic-release-test/commit/d9453c77317a06695a036db0aaba34fb244fcf32))
+
+
 ## v0.29.0 (2025-04-23)
 
 ### Features
