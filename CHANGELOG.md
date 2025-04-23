@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v1.0.0 (2025-04-23)
+
+### Features
+
+- Is this a breaking change?
+  ([`e64b85c`](https://github.com/PietroSpalluto/semantic-release-test/commit/e64b85ceca84ae544ea36d53b0377d5f694dc587))
+
+
 ## v0.38.0 (2025-04-23)
 
 ### Features
