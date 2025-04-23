@@ -26,12 +26,12 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           root_options: "-vv"
 
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          path: C:/Users/Pietro/PycharmProjects/semantic-release-test
-
-      - name: Pull latest changes
-        run: |
-          cd C:/Users/Pietro/PycharmProjects/semantic-release-test
-          git pull origin main
+#      - name: Checkout code
+#        uses: actions/checkout@v4
+#        with:
+#          path: C:/Users/Pietro/PycharmProjects/semantic-release-test
+#
+#      - name: Pull latest changes
+#        run: |
+#          cd C:/Users/Pietro/PycharmProjects/semantic-release-test
+#          git pull origin main
