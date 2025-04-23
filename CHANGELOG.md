@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.37.0 (2025-04-23)
+
+### Features
+
+- New building script
+  ([`00017a4`](https://github.com/PietroSpalluto/semantic-release-test/commit/00017a4aa640487ebe6f609d7af9f5d459f09cd8))
+
+
 ## v0.36.0 (2025-04-23)
 
 ### Features
