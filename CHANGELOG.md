@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.32.0 (2025-04-23)
+
+### Features
+
+- Fixed my fault
+  ([`954cd1a`](https://github.com/PietroSpalluto/semantic-release-test/commit/954cd1afb064c9e5697be150fb0af5d47d6e46d6))
+
+
 ## v0.31.0 (2025-04-23)
 
 ### Features
