@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.35.0 (2025-04-23)
+
+### Features
+
+- Working, building wheel
+  ([`66505bc`](https://github.com/PietroSpalluto/semantic-release-test/commit/66505bc86dcf2f79fcb6b6ef93f97a709e4250dd))
+
+
 ## v0.34.0 (2025-04-23)
 
 ### Features
