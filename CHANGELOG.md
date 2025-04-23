@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.36.0 (2025-04-23)
+
+### Features
+
+- Fix wheel building process
+  ([`2a6db51`](https://github.com/PietroSpalluto/semantic-release-test/commit/2a6db51c3073b5b6cfc3de06b307c7d4b4eec152))
+
+
 ## v0.35.0 (2025-04-23)
 
 ### Features
