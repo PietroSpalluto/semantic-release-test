@@ -1,7 +1,18 @@
 # CHANGELOG
 
 
+## v0.26.0 (2025-04-23)
+
+### Features
+
+- Please help
+  ([`c87bdd2`](https://github.com/PietroSpalluto/semantic-release-test/commit/c87bdd2429eb1c9f51a0cc23f2535ba4a65a66f1))
+
+
 ## v0.25.0 (2025-04-23)
+
+
+## v0.23.0 (2025-04-23)
 
 ### Features
 
@@ -15,11 +26,6 @@
 
 - Edited automatic pull
   ([`5657039`](https://github.com/PietroSpalluto/semantic-release-test/commit/5657039b7973a57b2c2657fc2938353b77384a95))
-
-
-## v0.23.0 (2025-04-22)
-
-### Features
 
 - Testing automatic pull
   ([`f2fe188`](https://github.com/PietroSpalluto/semantic-release-test/commit/f2fe18857d610c6b3a320c15efdd541cdc162d0f))
@@ -123,13 +129,15 @@
 
 ## v0.12.0 (2025-04-22)
 
-
-## v0.11.0 (2025-04-22)
-
 ### Features
 
 - Added new print
   ([`d78a91f`](https://github.com/PietroSpalluto/semantic-release-test/commit/d78a91fe37f01ac6537c0153aaaccbd2fcce0a2a))
+
+
+## v0.11.0 (2025-04-22)
+
+### Features
 
 - Modified repo_dir in yml
   ([`fad88d9`](https://github.com/PietroSpalluto/semantic-release-test/commit/fad88d9b95476a43990a4f61b7d80c1cae6f1aca))
