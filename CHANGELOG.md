@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.31.0 (2025-04-23)
+
+### Features
+
+- Nope
+  ([`c743328`](https://github.com/PietroSpalluto/semantic-release-test/commit/c743328a5a494a7be73e7e093f8e6ca8d8927ca6))
+
+
 ## v0.30.0 (2025-04-23)
 
 ### Features
