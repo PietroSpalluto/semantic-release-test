@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.29.0 (2025-04-23)
+
+### Features
+
+- Updated version bump, added automatic push
+  ([`b6e6074`](https://github.com/PietroSpalluto/semantic-release-test/commit/b6e6074c2fcdd39b6d1b307784c7b16c87ed5345))
+
+
 ## v0.28.0 (2025-04-23)
 
 ### Features
