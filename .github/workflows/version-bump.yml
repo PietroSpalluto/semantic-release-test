@@ -29,7 +29,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Specify the path if you're not using the default workspace
           path: C:/Users/Pietro/PycharmProjects/semantic-release-test
 
       - name: Pull latest changes
